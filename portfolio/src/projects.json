@@ -1,56 +1,47 @@
 [
     {
         "id": 1,
-        "image": " ",
-        "project": "Project 1",
-        "description": "This is a description of project 1",
-        "skill": ["React", "Vite", "Typescript"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
+        "image": "/eCitizen.png",
+        "Title": "eCitizen Clone",
+        "description": "This is a front-end clone of the eCitizen website. It is a government website that provides a wide range of government services to Kenyan citizens, businesses, and visitors.",
+        "skill": ["React", "Vite", "Javascript"],
+        "live": "https://e-citizen.vercel.app/",
+        "github": "https://github.com/Victor-Mutwiri/eCitizen"
     },
     {
         "id": 2,
-        "image": " ",
-        "project": "Project 2",
-        "description": "This is a description of project 2",
-        "skill": ["React", "Node", "Express"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
+        "image": "/movie-review app.png",
+        "Title": "Movie Review App",
+        "description": "This is a front-end app that makes use of the  IMDB open API, to fetch and display movie details. It has a search feature that allows users to search for movies by title.",
+        "skill": ["React", "Vite", "Javascript"],
+        "live": "https://movie-review-app-sand.vercel.app/",
+        "github": "https://github.com/Victor-Mutwiri/Movie-review-App"
     },
     {
         "id": 3,
-        "image": " ",
-        "project": "Project 3",
-        "description": "This is a description of project 3",
-        "skill": ["React", "Node", "Express"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
+        "image": "/uberEats.png",
+        "Title": "UberEats Clone",
+        "description": "This is a front-end clone of the UberEats website. It has a search feature that allows users to search for restaurants by name. It also has a login and signup feature that allows users to login and sign up repsectively. It is also mobile responsive unlike the original website.",
+        "skill": ["React", "Vite", "Typescript"],
+        "live": "https://uber-eats-green.vercel.app/",
+        "github": "https://github.com/Victor-Mutwiri/UberEats"
     },
     {
         "id": 4,
-        "image": " ",
-        "project": "Project 4",
-        "description": "This is a description of project 4",
-        "skill": ["React", "Node", "Express"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
+        "image": "/Safari Adventures.png",
+        "Title": "Safiri Adventures",
+        "description": "This is a front-end website of a tours and travel agency. Data is fetched from a JSON file and displayed on the website. It is also mobile responsive.",
+        "skill": ["React", "Vite", "Javascript", "JSON"],
+        "live": "https://travel-json.vercel.app/",
+        "github": "https://github.com/Victor-Mutwiri/Travel-JSON-"
     },
     {
         "id": 5,
-        "image": " ",
-        "project": "Project 5",
-        "description": "This is a description of project 5",
-        "skill": ["React", "Node", "Express"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
-    },
-    {
-        "id": 6,
-        "image": " ",
-        "project": "Project 6",
-        "description": "This is a description of project 6",
-        "skill": ["React", "Node", "Express"],
-        "live": "https://www.google.com",
-        "github": "https://www.github.com"
+        "image": "/Finance Logger App.png",
+        "Title": "Finance Logger App",
+        "description": "This is a front-end web app for finance logging that helps track payments. It has a feature that allows users to add and delete transactions. It is also mobile responsive.",
+        "skill": ["HTML", "CSS", "Javascript", "Typescript"],
+        "live": "https://finance-logger-app.vercel.app/",
+        "github": "https://github.com/Victor-Mutwiri/Finance-logger-App"
     }
 ]

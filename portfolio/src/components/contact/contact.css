@@ -3,6 +3,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background: #1F1F38;
+    padding: 5rem 10rem;
+}
+.socials h2{
+    font-size: 3rem;
+    color: #4DB5FF;
+    font-weight: 400;
+    margin-bottom: 2rem;
 }
 .socials div{
     display: flex;
@@ -12,5 +20,5 @@
 }
 .socials div a i{
     font-size: 50px;
-    color: black;
+    color: #fff;
 }

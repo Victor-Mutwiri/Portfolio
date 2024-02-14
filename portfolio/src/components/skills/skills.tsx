@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 export const Skills = () => {
     const settings = {
-        dots: true,
+        dots: false,
         infinite: true,
         speed: 1500,
         slidesToShow: 3,
