@@ -1,7 +1,10 @@
 import './App.css'
 import { About } from './components/about/about'
+import { Contact } from './components/contact/contact'
+import { Footer } from './components/footer/footer'
 import Navbar from './components/navbar/navbar'
-import { Skills } from './components/navbar/skills/skills'
+import { Projects } from './components/projects/projects'
+import { Skills } from './components/skills/skills'
 
 function App() {
 
@@ -10,7 +13,10 @@ function App() {
       <Navbar/>
       <About/>
       <Skills/>
-    </>
+      <Projects/>
+      <Contact/>
+      <Footer/> 
+      </>
   )
 }
 

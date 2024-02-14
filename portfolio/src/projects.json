@@ -4,7 +4,7 @@
         "image": " ",
         "project": "Project 1",
         "description": "This is a description of project 1",
-        "skill": ["React", "Node", "Express"],
+        "skill": ["React", "Vite", "Typescript"],
         "live": "https://www.google.com",
         "github": "https://www.github.com"
     },
@@ -22,6 +22,33 @@
         "image": " ",
         "project": "Project 3",
         "description": "This is a description of project 3",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    },
+    {
+        "id": 4,
+        "image": " ",
+        "project": "Project 4",
+        "description": "This is a description of project 4",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    },
+    {
+        "id": 5,
+        "image": " ",
+        "project": "Project 5",
+        "description": "This is a description of project 5",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    },
+    {
+        "id": 6,
+        "image": " ",
+        "project": "Project 6",
+        "description": "This is a description of project 6",
         "skill": ["React", "Node", "Express"],
         "live": "https://www.google.com",
         "github": "https://www.github.com"
