@@ -44,9 +44,12 @@
         display: flex;
         flex-direction: column;
         padding: 8rem 2rem 3rem 2rem;
+        background: #fff;
+        color: #000;
     }
     .intro{
         display: flex;
+        color: #000;
     }
     .intro .show{
         display: none;
