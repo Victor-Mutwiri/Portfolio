@@ -7,26 +7,39 @@ export const Skills = () => {
     const settings = {
         dots: true,
         infinite: true,
-        speed: 500,
+        speed: 1500,
         slidesToShow: 3,
-        slidesToScroll: 2,
+        slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 5000
+        autoplaySpeed: 1000
       };
   return (
     <div className="skills">
+        <h2>skills</h2>
         <Slider {...settings} className='logo'>
           <div className="carousel-slide">
-            <i className='bx bxl-typescript'/>
+            <i className='bx bxl-react'/>
           </div>
           <div className="carousel-slide">
-            <i className='bx bxl-react'/>
+            <i className='bx bxl-typescript'/>
           </div>
           <div className="carousel-slide">
             <i className='bx bxl-javascript'/>
           </div>
           <div className="carousel-slide">
             <i className='bx bxl-tailwind-css'/>
+          </div>
+          <div className="carousel-slide">
+            <i className='bx bxl-html5'/>
+          </div>
+          <div className="carousel-slide">
+            <i className='bx bxl-css3'/>
+          </div>
+          <div className="carousel-slide">
+            <i className='bx bxl-github'/>
+          </div>
+          <div className="carousel-slide">
+            <i className='bx bxl-git'/>
           </div>
         </Slider>
     </div>

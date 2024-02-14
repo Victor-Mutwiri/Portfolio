@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "image": " ",
+        "project": "Project 1",
+        "description": "This is a description of project 1",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    },
+    {
+        "id": 2,
+        "image": " ",
+        "project": "Project 2",
+        "description": "This is a description of project 2",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    },
+    {
+        "id": 3,
+        "image": " ",
+        "project": "Project 3",
+        "description": "This is a description of project 3",
+        "skill": ["React", "Node", "Express"],
+        "live": "https://www.google.com",
+        "github": "https://www.github.com"
+    }
+]
