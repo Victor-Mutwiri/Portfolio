@@ -1,0 +1,29 @@
+.skills{
+    width: 100%;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #000;
+}
+.logo{
+    display: grid;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.logo i{
+    font-size: 5rem;
+    margin: 0 1rem;
+    color: #000;
+}
+.carousel-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+  
