@@ -14,7 +14,7 @@ export const Skills = () => {
         autoplaySpeed: 1000
       };
   return (
-    <div className="skills">
+    <div className="skills" id='about'>
         <h2>skills</h2>
         <Slider {...settings} className='logo'>
           <div className="carousel-slide">

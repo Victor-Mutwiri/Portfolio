@@ -29,3 +29,22 @@ a{
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 30px;
 }
+
+@media(max-width:640px){
+    nav{
+        display: flex;
+        justify-content: center;
+        width: 450px;
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-around;
+        align-self: center;
+        align-items: center;
+        /* padding: 1.2rem;
+        width: 450px; */
+    }
+    .navbar ul li{
+        padding: 5px;
+    }
+}

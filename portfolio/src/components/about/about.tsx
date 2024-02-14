@@ -7,9 +7,10 @@ export const About = () => {
         <section className='intro'>
             <h2>Hello</h2>
             <h4>I'm Victor Mutwiri, KENYA <img src={flag} alt="flag" width={40}/></h4>
-            <p>
+            <p className='show'>
                 Frontend developer with 3+ years of experience. <br /> Passionate about creating user-friendly and visually appealing web apps <br /> Good design retains users and keeps them engaged.
             </p>
+            <p className='hidden'>Frontend developer with 3+ years of experience. Passionate about creating user-friendly and visually appealing web apps </p>
         </section>
         <section className='profile'><img src={profile} alt="profile" width={300}/></section>
     </div>

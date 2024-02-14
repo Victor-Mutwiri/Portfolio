@@ -19,6 +19,18 @@
     gap: 20px;
 }
 .socials div a i{
-    font-size: 50px;
+    font-size: 40px;
     color: #fff;
+}
+
+@media (max-width: 640px){
+    .socials{
+        padding: 3rem 3rem;
+    }
+    .socials div{
+        flex-direction: row;
+    }
+    .socials div a i{
+        font-size: 2rem;
+    }
 }

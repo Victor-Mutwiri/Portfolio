@@ -35,3 +35,27 @@
     font-size: 1.3rem;
     font-weight: 300;
 }
+.intro .hidden{
+    display: none;
+}
+
+@media (max-width:640px){
+    .About{
+        display: flex;
+        flex-direction: column;
+        padding: 8rem 2rem 3rem 2rem;
+    }
+    .intro{
+        display: flex;
+    }
+    .intro .show{
+        display: none;
+    }
+    .intro .hidden{
+        display: flex;
+    }
+    .profile img{
+        width: 200px;
+        height: auto;
+    }
+}

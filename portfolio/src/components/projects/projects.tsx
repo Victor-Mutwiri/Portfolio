@@ -2,6 +2,9 @@ import project from '../../projects.json'
 import './projects.css'
 
 export const Projects = () => {
+    const handleLiveButtonClick = (liveLink:string) => {
+        window.location.href = liveLink;
+      };
   return (
     <div className="projects" id="projects">
         <h3>Projects</h3>
@@ -19,8 +22,8 @@ export const Projects = () => {
                                 </div>
                             ))}
                         </div>
-                        <a href={project.live}>View Live</a>
-                        <a href={project.github}>View Code</a>
+                        <button onClick={() => handleLiveButtonClick(project.live)}>Live</button>
+                        <button onClick={() => handleLiveButtonClick(project.github)}>Code</button>
                     </div>
                 )
                 })} 

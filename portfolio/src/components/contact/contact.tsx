@@ -2,7 +2,7 @@ import './contact.css'
 
 export const Contact = () => {
   return (
-    <div className="socials">
+    <div className="socials" id='contact'>
         <h2>Contact Me</h2>
         <div className='social'>
             <a href="mailto:mutwirilincoln19@gmail.com>">
