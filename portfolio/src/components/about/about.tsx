@@ -8,7 +8,7 @@ export const About = () => {
             <h2>Hello</h2>
             <h4>I'm Victor Mutwiri, KENYA <img src={flag} alt="flag" width={40}/></h4>
             <p className='show'>
-                Frontend developer with 3+ years of experience. <br /> Passionate about creating user-friendly and visually appealing web apps <br /> Good design retains users and keeps them engaged.
+                Mobile & Frontend developer with 4+ years of experience. <br /> Passionate about creating user-friendly and visually appealing mobile & web apps <br /> Good design retains users and keeps them engaged.
             </p>
             <p className='hidden'>Frontend developer with 3+ years of experience. Passionate about creating user-friendly and visually appealing web apps </p>
         </section>

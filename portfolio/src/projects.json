@@ -1,6 +1,15 @@
 [
     {
         "id": 1,
+        "image": "/kenyanAuto.png",
+        "Title": "KenyanAuto",
+        "description": "This is a fullstack website. It is a vehicle web app that allows users to search for vehicles in Kenya. It allows users to search and discover different vehicle makes and models before purchase. It is also mobile responsive.",
+        "skill": ["React", "Javascript", "Strapi", "Postgres", "Render"],
+        "live": "https://www.kenyanauto.com/",
+        "github": "https://github.com/Victor-Mutwiri/KenyanAuto"
+    },
+    {
+        "id": 2,
         "image": "/MatchFit.png",
         "Title": "MatchFit",
         "description": "This is a fullstack website. It is a job-board web app that allows users to search for jobs by title and location. It also has a feature that allows users to apply for jobs. It also has a login and signup feature that allows Employers to login and sign up repsectively. It is also mobile responsive.",
@@ -9,7 +18,7 @@
         "github": "https://github.com/Victor-Mutwiri/MatchFit"
     },
     {
-        "id": 2,
+        "id": 3,
         "image": "/eCitizen.png",
         "Title": "eCitizen Clone",
         "description": "This is a front-end clone of the eCitizen website. It is a government website that provides a wide range of government services to Kenyan citizens, businesses, and visitors.",
@@ -18,7 +27,7 @@
         "github": "https://github.com/Victor-Mutwiri/eCitizen"
     },
     {
-        "id": 3,
+        "id": 4,
         "image": "/movie-review app.png",
         "Title": "Movie Review App",
         "description": "This is a front-end app that makes use of the  IMDB open API, to fetch and display movie details. It has a search feature that allows users to search for movies by title.",
@@ -27,7 +36,7 @@
         "github": "https://github.com/Victor-Mutwiri/Movie-review-App"
     },
     {
-        "id": 4,
+        "id": 5,
         "image": "/uberEats.png",
         "Title": "UberEats Clone",
         "description": "This is a front-end clone of the UberEats website. It has a search feature that allows users to search for restaurants by name. It also has a login and signup feature that allows users to login and sign up repsectively. It is also mobile responsive unlike the original website.",
@@ -36,7 +45,7 @@
         "github": "https://github.com/Victor-Mutwiri/UberEats"
     },
     {
-        "id": 5,
+        "id": 6,
         "image": "/Safari Adventures.png",
         "Title": "Safiri Adventures",
         "description": "This is a front-end website of a tours and travel agency. Data is fetched from a JSON file and displayed on the website. It is also mobile responsive.",
@@ -45,7 +54,7 @@
         "github": "https://github.com/Victor-Mutwiri/Travel-JSON-"
     },
     {
-        "id": 6,
+        "id": 7,
         "image": "/Finance Logger App.png",
         "Title": "Finance Logger App",
         "description": "This is a front-end web app for finance logging that helps track payments. It has a feature that allows users to add and delete transactions. It is also mobile responsive.",
