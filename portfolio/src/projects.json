@@ -20,7 +20,7 @@
     {
         "id": 3,
         "image": "/Whizz.png",
-        "Title": "AmeriPro",
+        "Title": "Whizcribs",
         "description": "Whizcribs had a fundamental need to revolutionize the gifting experience through an innovative mobile application. With a focus on gifting, Whizcribs required a mobile app to let the users re-imagine how a gift card should be delivered. An app that would enable users to send personalized gift cards in a secure environment.",
         "skill": ["React Native", "Javascript", "SqlLite"],
         "live": "",
@@ -36,25 +36,16 @@
         "github": "https://github.com/Victor-Mutwiri/KenyanAuto"
     },
     {
-        "id": 4,
-        "image": "/kenyanAuto.png",
-        "Title": "SanValencia Garndens",
-        "description": "Sanvalencia Gardens is an esteemed restaurant located along Riara Road, and wanted a website for their restaurant. Working as part of a team I delivered a website that has since served them and their clients for 4+ years, and actively work with the company to maintain it",
-        "skill": ["Wordpress", "Strapi", "Render"],
-        "live": "https://www.sanvalencia.com/",
-        "github": ""
-    },
-    {
-        "id": 3,
+        "id": 5,
         "image": "/MatchFit.png",
         "Title": "MatchFit",
         "description": "This is a fullstack website. It is a job-board web app that allows users to search for jobs by title and location. It also has a feature that allows users to apply for jobs. It also has a login and signup feature that allows Employers to login and sign up repsectively. It is also mobile responsive.",
         "skill": ["React", "Typescript", "Strapi", "Postgres", "Heroku"],
-        "live": "https://match-fit.vercel.app/",
+        "live": "https://matchfit-jobs.vercel.app/",
         "github": "https://github.com/Victor-Mutwiri/MatchFit"
     },
     {
-        "id": 3,
+        "id": 6,
         "image": "/eCitizen.png",
         "Title": "eCitizen Clone",
         "description": "This is a front-end clone of the eCitizen website. It is a government website that provides a wide range of government services to Kenyan citizens, businesses, and visitors.",
@@ -63,7 +54,7 @@
         "github": "https://github.com/Victor-Mutwiri/eCitizen"
     },
     {
-        "id": 4,
+        "id": 7,
         "image": "/movie-review app.png",
         "Title": "Movie Review App",
         "description": "This is a front-end app that makes use of the  IMDB open API, to fetch and display movie details. It has a search feature that allows users to search for movies by title.",
@@ -72,7 +63,7 @@
         "github": "https://github.com/Victor-Mutwiri/Movie-review-App"
     },
     {
-        "id": 5,
+        "id": 8,
         "image": "/uberEats.png",
         "Title": "UberEats Clone",
         "description": "This is a front-end clone of the UberEats website. It has a search feature that allows users to search for restaurants by name. It also has a login and signup feature that allows users to login and sign up repsectively. It is also mobile responsive unlike the original website.",
@@ -81,7 +72,7 @@
         "github": "https://github.com/Victor-Mutwiri/UberEats"
     },
     {
-        "id": 6,
+        "id": 9,
         "image": "/Safari Adventures.png",
         "Title": "Safiri Adventures",
         "description": "This is a front-end website of a tours and travel agency. Data is fetched from a JSON file and displayed on the website. It is also mobile responsive.",
@@ -90,11 +81,11 @@
         "github": "https://github.com/Victor-Mutwiri/Travel-JSON-"
     },
     {
-        "id": 7,
+        "id": 10,
         "image": "/Finance Logger App.png",
         "Title": "Finance Logger App",
         "description": "This is a front-end web app for finance logging that helps track payments. It has a feature that allows users to add and delete transactions. It is also mobile responsive.",
-        "skill": ["HTML", "CSS", "Javascript", "Typescript"],
+        "skill": ["HTML", "CSS", "Javascript"],
         "live": "https://finance-logger-app.vercel.app/",
         "github": "https://github.com/Victor-Mutwiri/Finance-logger-App"
     }
