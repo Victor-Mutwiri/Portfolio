@@ -1,5 +1,7 @@
-import project from '../../projects.json'
-import './projects.css'
+import project from '../../projects.json';
+import './projects.css';
+import ImageGallery from 'react-image-gallery';
+import 'react-image-gallery/styles/css/image-gallery.css';
 
 export const Projects = () => {
     const handleLiveButtonClick = (liveLink:string) => {
@@ -12,7 +14,8 @@ export const Projects = () => {
             {project && project.map(project =>{
                 return(
                     <div className="project-card">
-                        <img src={project.image} alt="project" />
+                        <ImageGallery items={project.image} showPlayButton={false} showThumbnails={false} />
+                        {/* <img src={project.image} alt="project" /> */}
                         <h4>{project.Title}</h4>
                         <p>{project.description}</p>
                         <div className="skillz">

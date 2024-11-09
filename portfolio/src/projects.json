@@ -1,7 +1,15 @@
 [
     {
         "id": 1,
-        "image": "/Feature.png",
+        "image": [
+            { "original": "/Phone/1.png", "thumbnail": "/Phone/1.png" },
+            { "original": "/Phone/2.png", "thumbnail": "/Phone/2.png" },
+            { "original": "/Phone/3.png", "thumbnail": "/Phone/3.png" },
+            { "original": "/Phone/4.png", "thumbnail": "/Phone/4.png" },
+            { "original": "/Phone/5.png", "thumbnail": "/Phone/5.png" },
+            { "original": "/Phone/6.png", "thumbnail": "/Phone/6.png" },
+            { "original": "/Phone/7.png", "thumbnail": "/Phone/7.png" }
+        ],
         "Title": "CabzTrack",
         "description": "CabzTrack is an android app built for cab drivers to help them track their revenue and provides detailed reports. This an ongoing project currently at the google play console closed testing stage",
         "skill": ["React Native", "Javascript", "Supabase"],
@@ -10,7 +18,15 @@
     },
     {
         "id": 2,
-        "image": "/Ameri.png",
+        "image": [
+            { "original": "/Amari/Ameri1.png", "thumbnail": "/Amari/Ameri1.png" },
+            { "original": "/Amari/Ameri2.png", "thumbnail": "/Amari/Ameri2.png" },
+            { "original": "/Amari/Ameri3.png", "thumbnail": "/Amari/Ameri3.png" },
+            { "original": "/Amari/Ameri4.png", "thumbnail": "/Amari/Ameri4.png" },
+            { "original": "/Amari/Ameri5.png", "thumbnail": "/Amari/Ameri5.png" },
+            { "original": "/Amari/Ameri6.png", "thumbnail": "/Amari/Ameri6.png" },
+            { "original": "/Amari/Ameri7.png", "thumbnail": "/Amari/Ameri7.png" }
+        ],
         "Title": "AmeriPro",
         "description": "AmeriPro sought to revolutionize their sales workflow by introducing advanced automation technology. As part of the development team, we brought forth a paperless system, crafting a visionary mobile app that not only streamlined the previously manual sales procedures but also significantly enhanced the efficiency of their sales representatives in data recording.",
         "skill": ["React Native", "Javascript", "MongoDb", "RESTAPIs"],
@@ -19,7 +35,14 @@
     },
     {
         "id": 3,
-        "image": "/Whizz.png",
+        "image": [
+            { "original": "/Whiz/1.png", "thumbnail": "/Whiz/1.png" },
+            { "original": "/Whiz/2.png", "thumbnail": "/Whiz/2.png" },
+            { "original": "/Whiz/3.png", "thumbnail": "/Whiz/3.png" },
+            { "original": "/Whiz/4.png", "thumbnail": "/Whiz/4.png" },
+            { "original": "/Whiz/5.png", "thumbnail": "/Whiz/5.png" },
+            { "original": "/Whiz/6.png", "thumbnail": "/Whiz/6.png" }
+        ],
         "Title": "Whizcribs",
         "description": "Whizcribs had a fundamental need to revolutionize the gifting experience through an innovative mobile application. With a focus on gifting, Whizcribs required a mobile app to let the users re-imagine how a gift card should be delivered. An app that would enable users to send personalized gift cards in a secure environment.",
         "skill": ["React Native", "Javascript", "SqlLite"],
@@ -28,7 +51,12 @@
     },
     {
         "id": 4,
-        "image": "/kenyanAuto.png",
+        "image": [
+            { "original": "/KenyanAuto/kenyanAuto.png", "thumbnail": "/KenyanAuto/kenyanAuto.png" },
+            { "original": "/KenyanAuto/1.png", "thumbnail": "/KenyanAuto/1.png" },
+            { "original": "/KenyanAuto/2.png", "thumbnail": "/KenyanAuto/2.png" },
+            { "original": "/KenyanAuto/3.png", "thumbnail": "/KenyanAuto/3.png" }
+        ],
         "Title": "KenyanAuto",
         "description": "This is a fullstack website. It is a vehicle web app that allows users to search for vehicles in Kenya. It allows users to search and discover different vehicle makes and models before purchase. It is also mobile responsive.",
         "skill": ["React", "Javascript", "Docker", "Strapi", "Postgres", "Render"],
@@ -37,7 +65,11 @@
     },
     {
         "id": 5,
-        "image": "/MatchFit.png",
+        "image": [
+            { "original": "/MatchFit1.png", "thumbnail": "/MatchFit1.png" },
+            { "original": "/MatchFit2.png", "thumbnail": "/MatchFit2.png" },
+            { "original": "/MatchFit3.png", "thumbnail": "/MatchFit3.png" }
+        ],
         "Title": "MatchFit",
         "description": "This is a fullstack website. It is a job-board web app that allows users to search for jobs by title and location. It also has a feature that allows users to apply for jobs. It also has a login and signup feature that allows Employers to login and sign up repsectively. It is also mobile responsive.",
         "skill": ["React", "Typescript", "Strapi", "Postgres", "Heroku"],
@@ -46,7 +78,9 @@
     },
     {
         "id": 6,
-        "image": "/eCitizen.png",
+        "image": [
+            { "original": "/eCitizen.png", "thumbnail": "/eCitizen.png" }
+        ],
         "Title": "eCitizen Clone",
         "description": "This is a front-end clone of the eCitizen website. It is a government website that provides a wide range of government services to Kenyan citizens, businesses, and visitors.",
         "skill": ["React", "Vite", "Javascript"],
@@ -55,7 +89,9 @@
     },
     {
         "id": 7,
-        "image": "/movie-review app.png",
+        "image": [
+            { "original": "/movie-review app.png", "thumbnail": "/movie-review app.png" }
+        ],
         "Title": "Movie Review App",
         "description": "This is a front-end app that makes use of the  IMDB open API, to fetch and display movie details. It has a search feature that allows users to search for movies by title.",
         "skill": ["React", "Vite", "Javascript"],
@@ -64,7 +100,9 @@
     },
     {
         "id": 8,
-        "image": "/uberEats.png",
+        "image": [
+            { "original": "/uberEats.png", "thumbnail": "/uberEats.png" }
+        ],
         "Title": "UberEats Clone",
         "description": "This is a front-end clone of the UberEats website. It has a search feature that allows users to search for restaurants by name. It also has a login and signup feature that allows users to login and sign up repsectively. It is also mobile responsive unlike the original website.",
         "skill": ["React", "Vite", "Typescript"],
@@ -73,7 +111,9 @@
     },
     {
         "id": 9,
-        "image": "/Safari Adventures.png",
+        "image": [
+            { "original": "/Safari Adventures.png", "thumbnail": "/Safari Adventures.png" }
+        ],
         "Title": "Safiri Adventures",
         "description": "This is a front-end website of a tours and travel agency. Data is fetched from a JSON file and displayed on the website. It is also mobile responsive.",
         "skill": ["React", "Vite", "Javascript", "JSON"],
@@ -82,7 +122,9 @@
     },
     {
         "id": 10,
-        "image": "/Finance Logger App.png",
+        "image": [
+            { "original": "/Finance Logger App.png", "thumbnail": "/Finance Logger App.png" }
+        ],
         "Title": "Finance Logger App",
         "description": "This is a front-end web app for finance logging that helps track payments. It has a feature that allows users to add and delete transactions. It is also mobile responsive.",
         "skill": ["HTML", "CSS", "Javascript"],
