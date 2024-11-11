@@ -16,7 +16,7 @@ export const Projects = () => {
                     <div className="project-card">
                         <ImageGallery items={project.image} showPlayButton={false} showThumbnails={false} />
                         {/* <img src={project.image} alt="project" /> */}
-                        <h4>{project.Title}</h4>
+                        <h4>{project.Title} - {project.Type}</h4>
                         <p>{project.description}</p>
                         <div className="skillz">
                             {project.skill.map((skill, index) => (

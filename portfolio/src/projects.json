@@ -10,6 +10,7 @@
             { "original": "/Phone/6.png", "thumbnail": "/Phone/6.png" },
             { "original": "/Phone/7.png", "thumbnail": "/Phone/7.png" }
         ],
+        "Type":"React Native App" ,
         "Title": "CabzTrack",
         "description": "CabzTrack is an android app built for cab drivers to help them track their revenue and provides detailed reports. This an ongoing project currently at the google play console closed testing stage",
         "skill": ["React Native", "Javascript", "Supabase"],
@@ -27,6 +28,7 @@
             { "original": "/Amari/Ameri6.png", "thumbnail": "/Amari/Ameri6.png" },
             { "original": "/Amari/Ameri7.png", "thumbnail": "/Amari/Ameri7.png" }
         ],
+        "Type":"React Native App",
         "Title": "AmeriPro",
         "description": "AmeriPro sought to revolutionize their sales workflow by introducing advanced automation technology. As part of the development team, we brought forth a paperless system, crafting a visionary mobile app that not only streamlined the previously manual sales procedures but also significantly enhanced the efficiency of their sales representatives in data recording.",
         "skill": ["React Native", "Javascript", "MongoDb", "RESTAPIs"],
@@ -43,6 +45,7 @@
             { "original": "/Whiz/5.png", "thumbnail": "/Whiz/5.png" },
             { "original": "/Whiz/6.png", "thumbnail": "/Whiz/6.png" }
         ],
+        "Type":"React Native App",
         "Title": "Whizcribs",
         "description": "Whizcribs had a fundamental need to revolutionize the gifting experience through an innovative mobile application. With a focus on gifting, Whizcribs required a mobile app to let the users re-imagine how a gift card should be delivered. An app that would enable users to send personalized gift cards in a secure environment.",
         "skill": ["React Native", "Javascript", "SqlLite"],
@@ -57,6 +60,7 @@
             { "original": "/KenyanAuto/2.png", "thumbnail": "/KenyanAuto/2.png" },
             { "original": "/KenyanAuto/3.png", "thumbnail": "/KenyanAuto/3.png" }
         ],
+        "Type":"Full Stack Website",
         "Title": "KenyanAuto",
         "description": "This is a fullstack website. It is a vehicle web app that allows users to search for vehicles in Kenya. It allows users to search and discover different vehicle makes and models before purchase. It is also mobile responsive.",
         "skill": ["React", "Javascript", "Docker", "Strapi", "Postgres", "Render"],
@@ -70,6 +74,7 @@
             { "original": "/MatchFit2.png", "thumbnail": "/MatchFit2.png" },
             { "original": "/MatchFit3.png", "thumbnail": "/MatchFit3.png" }
         ],
+        "Type":"Full Stack Website",
         "Title": "MatchFit",
         "description": "This is a fullstack website. It is a job-board web app that allows users to search for jobs by title and location. It also has a feature that allows users to apply for jobs. It also has a login and signup feature that allows Employers to login and sign up repsectively. It is also mobile responsive.",
         "skill": ["React", "Typescript", "Strapi", "Postgres", "Heroku"],
